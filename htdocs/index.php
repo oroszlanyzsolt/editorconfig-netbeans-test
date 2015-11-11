@@ -10,6 +10,6 @@
  */
 
 function teszt() {
-	echo 'ok';
+echo 'ok';
 }
 
